@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cabecalho{
+    text-decoration: center;
+    background-color: rgb(84, 84, 228);
+    color: black;
+    padding: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
